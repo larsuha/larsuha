@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @larsuha
 - 👀 I’m interested in floorball
-- 🌱 I’m currently learning Java
+- 🌱 I’m a Java developer with also frontend experiences
 - 📫 How to reach me lars.lamminger@clavisit.com
 
 <!---
